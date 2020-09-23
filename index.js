@@ -1,4 +1,3 @@
-<script>
             // Variables
             var scrollPos = $(window).scrollTop();
             var topJumpPos = $("#topJumpBtn").css("bottom");
@@ -101,4 +100,3 @@
               //end jquery
             });
             AOS.init();
-        </script>
